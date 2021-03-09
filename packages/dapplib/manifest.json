@@ -1,0 +1,15 @@
+{
+    "name": "VIP Dapp",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "VIP Token",
+        "/category/asset_value_tracking/token/symbol": "VIP",
+        "/category/asset_value_tracking/token/decimals": "9",
+        "/category/asset_value_tracking/token/supply": "555000",
+        "/category/collection/entity": true
+    }
+}
